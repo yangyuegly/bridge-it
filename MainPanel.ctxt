@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=MainPanel
+comment0.text=\n\ The\ MainPanel\ extends\ the\ JPanel\ class,\ and\ allows\ users\ to\ switch\ \n\ between\ the\ starting\ panel,\ the\ rules\ panel,\ and\ the\ board\ panel\ of\ \n\ the\ game\ by\ clicking\ on\ corresponding\ buttons.\ \n\n\ @main\ authors\ (Caiqin\ Zhou,\ Jane\ Yang)\n\ @version\ (12/13/18)\n
+comment1.params=image\ myGame
+comment1.target=MainPanel(java.awt.Image,\ BridgeItGame)
+numComments=2

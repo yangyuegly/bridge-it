@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=BoardPanel
+comment0.text=\n\ BoardPanel\ extends\ JPanel\ and\ displays\ the\ game\ board\ on\ the\ UI.\n\ After\ a\ player\ makes\ a\ mover,\ the\ corresponding\ edge\ is\ added\ on\ the\n\ panel.\n\n\ @main\ authors\ (Caiqin\ Zhou,\ Jane\ Yang)\n\ @version\ (12/13/18)\n
+comment1.params=myGame
+comment1.target=BoardPanel(BridgeItGame)
+comment2.params=g
+comment2.target=void\ paintComponent(java.awt.Graphics)
+comment3.params=c
+comment3.target=void\ setComputer(boolean)
+numComments=4

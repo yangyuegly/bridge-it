@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=StartPanel
+comment0.text=\n\ StartPanel\ extends\ JPanel\ and\ represents\ the\ home\ page\ on\ the\ UI.\n\n\ @authors\ (Caiqin\ Zhou,\ Jane\ Yang)\n\ @version\ (12/13/18)\n
+comment1.params=i
+comment1.target=StartPanel(java.awt.Image)
+comment2.params=g
+comment2.target=void\ paintComponent(java.awt.Graphics)
+numComments=3

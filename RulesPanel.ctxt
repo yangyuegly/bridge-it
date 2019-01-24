@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=RulesPanel
+comment0.text=\n\ RulesPanel\ extends\ JPanel\ and\ include\ JLabels\ that\ display\ the\n\ rules\ of\ the\ game\ on\ the\ UI.\n\n\ @main\ author\ (Caiqin\ Zhou)\n\ @version\ (12/13/18)\n
+comment1.params=
+comment1.target=RulesPanel()
+numComments=2

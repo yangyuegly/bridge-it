@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Edge
+comment0.text=\n\ An\ Edge\ object\ consists\ of\ 2\ vertices\n\n\ @author\ (Jane\ Yang)\n\ @version\ (12/13/18)\n
+comment1.params=v1\ v2
+comment1.target=Edge(Vertex,\ Vertex)
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ Arc\n
+comment2.params=
+comment2.target=Edge()
+comment3.params=
+comment3.target=Vertex\ getFirstV()
+comment4.params=
+comment4.target=Vertex\ getSecondV()
+numComments=5
